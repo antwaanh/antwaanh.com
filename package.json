@@ -16,16 +16,16 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "@adonisjs/ace": "^5.0.2",
-    "@adonisjs/auth": "^3.0.5",
-    "@adonisjs/bodyparser": "^2.0.3",
-    "@adonisjs/cors": "^1.0.6",
-    "@adonisjs/fold": "^4.0.8",
+    "@adonisjs/ace": "^5.0.8",
+    "@adonisjs/auth": "^3.0.7",
+    "@adonisjs/bodyparser": "^2.0.9",
+    "@adonisjs/cors": "^1.0.7",
+    "@adonisjs/fold": "^4.0.9",
     "@adonisjs/framework": "^5.0.13",
-    "@adonisjs/ignitor": "^2.0.6",
+    "@adonisjs/ignitor": "^2.0.8",
     "@adonisjs/lucid": "^5.0.4",
-    "@adonisjs/session": "^1.0.25",
-    "@adonisjs/shield": "^1.0.6"
+    "@adonisjs/session": "^1.0.28",
+    "@adonisjs/shield": "^1.0.8"
   },
   "devDependencies": {},
   "autoload": {
